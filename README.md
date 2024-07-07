@@ -21,6 +21,14 @@ _✨ 不完全的QQ表情仓库 ✨_
 - [炸毛框架v1文档 - 表情ID对照表](https://docs-v1.zhamao.xin/face_list.html)
 - [Koishi.js - QFace仓库](https://github.com/koishijs/QFace/tree/master)
 
+# 调用方式
+
+可以使用以下链接
+
+`https://robonyantame.github.io/QQEmojiFiles/Image/{id}.gif`
+
+或者克隆此仓库进行api搭建
+
 # 仓库进度
 
 应该不会再写补全了啥，漏了再说吧
